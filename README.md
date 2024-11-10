@@ -1,9 +1,10 @@
 # Selfie App Features Application
 Bringing Fun and Practical Computer Vision Skills to Life
 
+<img width="1057" alt="Screenshot 2024-11-10 at 2 20 18 pm" src="https://github.com/user-attachments/assets/89457c95-003b-4b97-8fe9-f7c77a557195">
+
 ## Description
 This project is all about leveling up with **OpenCV** and **computer vision** techniques! Here, I’ve built tools that add cool effects to images and videos—like Cartoonify and Pencil Sketch for unique visuals, plus blemish removal and chroma keying to swap out backgrounds. Each feature explores a different aspect of image processing, making it both fun and valuable for anyone diving into computer vision.
-
 
 ## Features
 
@@ -72,3 +73,24 @@ For the **Blemish Removal** and **Chroma Keying** features, run the correspondin
 - Replace `your_image.jpg`, `input_video.mp4`, and `new_background.jpg` with your actual file names.
 - The Python scripts can be run from the command line by providing the necessary arguments as shown above.
 
+## Future Improvements
+
+- **Enhance Image Effects**: Improve the quality of the Cartoonify and Pencil Sketch features by experimenting with more advanced filters and machine learning models to achieve more refined effects.
+
+- **Real-Time Video Processing**: Implement real-time video processing for the Cartoonify and Pencil Sketch effects to allow these transformations to be applied live during video capture.
+
+- **Background Removal for Chroma Keying**: Add automatic background removal to the chroma keying feature, enabling dynamic background replacement without requiring a specific color.
+
+- **User Interface (UI)**: Develop a simple graphical user interface (GUI) to make the application more user-friendly. This UI could allow users to upload images and videos without modifying the code directly.
+
+- **Model Optimization**: Optimize the performance of the image processing models to improve execution time, particularly for high-resolution images and longer videos.
+
+- **Additional Filters and Features**: Introduce new filters, such as sepia tone, oil painting, or watercolor effects, to expand the creative possibilities of the application.
+
+- **Error Handling and Logging**: Improve error handling and add logging to enhance debugging and provide better feedback when processing fails or files are missing.
+
+## Conclusion
+
+This project demonstrates practical applications of computer vision techniques using OpenCV, showcasing features like cartoonifying images, creating pencil sketches, removing blemishes, and implementing chroma keying in videos. Through this project, I have strengthened my skills in image processing and OpenCV, applying creative transformations to images and videos.
+
+The project has room for further enhancements, such as real-time video processing, additional effects, and a user-friendly interface. These improvements could broaden its applications, making it a more comprehensive tool for both personal and creative use. Overall, this project represents a solid foundation in image manipulation and provides valuable opportunities for expanding its capabilities.
